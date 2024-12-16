@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oladokun-olayiwola
 - 👀 I’m interested in 
-- 🌱 I’m currently learning NodeJS
+- 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
