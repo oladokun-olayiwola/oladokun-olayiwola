@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oladokun-olayiwola
 - 👀 I’m interested in 
-- 🌱 I’m currently learning
+- 🌱 I’m currently learning **Go (concurrency patterns with goroutines/channels, standard library microservices, and performance optimization).**
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
